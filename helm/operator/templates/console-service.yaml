@@ -27,4 +27,4 @@ spec:
       targetPort: 9443
       # Optional field
       # By default and for convenience, the Kubernetes control plane will allocate a port from a range (default: 30000-32767)
-      nodePort: 30443
+      nodePort: 31443
